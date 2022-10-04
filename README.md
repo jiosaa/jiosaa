@@ -2,7 +2,7 @@
 
 I’m interested in web development both frontend and backend.
 
-I’m currently learning Software Engineering and various programming languages.
+I’m currently learning other web development frameworks and Software Engineering.
 
 I’m looking to collaborate on any web development projects.
 

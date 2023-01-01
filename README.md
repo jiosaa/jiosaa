@@ -6,6 +6,7 @@ I’m currently learning other web development frameworks and libraries and Soft
 
 I’m looking to collaborate on any web development projects.
 
+<img src="https://profile-counter.glitch.me/jiosaa/count.svg" />
 
 -> You can reach me through 
 

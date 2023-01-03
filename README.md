@@ -7,6 +7,12 @@ I'm a software engineer student who is passionate about making contributing to o
 
 
 
+# GitHub Stats 📊:
+![](https://github-readme-stats.vercel.app/api?username=jiosaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jiosaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiosaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## You can reach me through: 
 - batisileshi93@gmail.com
 - <a href="https://www.linkedin.com/in/bati-sileshi-705891245"> Linkedin</a> 

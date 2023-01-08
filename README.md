@@ -3,7 +3,7 @@
 # Hi, I'm Bati 👋🏾 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/jiosaa/jiosaa/master/read_me_up.png" alt="banner that says Bati Sileshi - software engineering student, django developer, backend developer">
-I'm a software engineer student who is passionate about making contributing to open-source more approachable, interested in web development, backend developer, django developer. Some technologies I enjoy working with include Django, Materializecss, Bootstrap, HTML, CSS and Expressjs. 
+I'm a Software Engineering student who is passionate about making contributing to open-source more approachable, interested in web development, backend, django developement. Some technologies I enjoy working with include Django, PHP, Materializecss, Bootstrap, HTML, CSS and Expressjs. 
 
 
 

@@ -18,4 +18,4 @@ I'm a Software Engineering student who is passionate about making contributing t
 - <a href="https://www.linkedin.com/in/bati-sileshi-705891245"> Linkedin</a> 
 - <a href="https://t.me/of_2k">Telegram</a> 
 
-<img src="https://profile-counter.glitch.me/jiosaa/count.svg" />
+Visits: <img src="https://profile-counter.glitch.me/jiosaa/count.svg" />

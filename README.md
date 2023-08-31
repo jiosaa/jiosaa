@@ -16,7 +16,7 @@ I'm a Software Engineering student who is passionate about making contributing t
 ## You can reach me through: 
 - batisileshi93@gmail.com
 - <a href="https://www.linkedin.com/in/bati-sileshi-705891245"> Linkedin</a> 
-- <a href="https://t.me/of_2k">Telegram</a> 
+- <a href="https://t.me/bati03">Telegram</a> 
 
 ## Visits: 
 <img src="https://profile-counter.glitch.me/BatiSileshi/count.svg" />

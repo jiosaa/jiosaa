@@ -3,7 +3,7 @@
 # Hi, I'm Bati 👋🏾 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/BatiSileshi/BatiSileshi/master/readme.png" alt="banner that says Bati Sileshi - software engineering student, django developer, backend developer">
-I'm a Software Engineering student who is passionate about making contributing to open-source more approachable, interested in web development, backend, django developement. Some technologies I enjoy working with include Django, PHP, Materializecss, Bootstrap, HTML, CSS and Expressjs. 
+A passionate software engineer with more than 3 years of work experience in backend development. I am proficient in Django, Django Rest Framework, NestJS and Machine Learning which enables me to deliver high-quality projects. I have honed my skills and developed a deep understanding of software development best practices at different software companies. Working alongside talented teams, I continuously challenge myself to grow professionally.
 
 
 

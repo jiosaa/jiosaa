@@ -8,7 +8,6 @@ A passionate software engineer with more than 3 years of work experience in back
 
 
 # GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=BatiSileshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BatiSileshi&theme=dark&hide_border=false)<br/>
 
 
@@ -17,5 +16,3 @@ A passionate software engineer with more than 3 years of work experience in back
 - <a href="https://www.linkedin.com/in/bati-sileshi-705891245"> Linkedin</a> 
 - <a href="https://t.me/bati03">Telegram</a> 
 
-## Visits: 
-<img src="https://profile-counter.glitch.me/BatiSileshi/count.svg" />
